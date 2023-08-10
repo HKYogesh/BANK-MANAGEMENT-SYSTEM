@@ -1,8 +1,7 @@
 
 # Banking System 
 
-**Cpp is one of the most popular programming Language,popular for 
-fast processing,so i decided to compile a list of libraries,practice**
+**Bank Management System is based on a concept of recording customer's account details.**
 
 # In this project
 - The Customer Can Create The account with unique account number
